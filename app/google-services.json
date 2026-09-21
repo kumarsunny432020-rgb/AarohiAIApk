@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "703522021767",
+    "project_id": "aarohiai",
+    "storage_bucket": "aarohiai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703522021767:android:42661d899fc160a4e3f322",
+        "android_client_info": {
+          "package_name": "Com.Aarohi.AI"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703522021767-hqf9l56rpm8juvpu44lou2auecp3bpuq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "Com.Aarohi.AI",
+            "certificate_hash": "ca16c9f2b83c08eb48fc591942d54d27e2911fd1"
+          }
+        },
+        {
+          "client_id": "703522021767-uehh90vmi75ab66pcm33ugh850hmiuol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmsl2ISB0rqMu53s9GAtqo4zFfDrKGl58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703522021767-uehh90vmi75ab66pcm33ugh850hmiuol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
